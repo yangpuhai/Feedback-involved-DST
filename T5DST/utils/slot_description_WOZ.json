@@ -1,0 +1,35 @@
+{
+    "food": {
+        "description_human": "the cuisine of the restaurant you are looking for",
+        "values": [],
+        "naive": "food of the restaurant",
+        "question": "What is the food of the restaurant that the user in interested in?",
+        "slottype": "food of the restaurant"
+    },
+    "price range": {
+        "description_human": "price budget for the restaurant",
+        "values": [
+            "cheap",
+            "dontcare",
+            "expensive",
+            "moderate"
+        ],
+        "naive": "price range of the restaurant",
+        "question": "What is the pricerange of the restaurant that the user in interested in?",
+        "slottype": "price range of the restaurant"
+    },
+    "area": {
+        "description_human": "area or place of the restaurant",
+        "values": [
+            "centre",
+            "dontcare",
+            "east",
+            "north",
+            "south",
+            "west"
+        ],
+        "naive": "area of the restaurant",
+        "question": "What is the area of the restaurant that the user in interested in?",
+        "slottype": "area of the restaurant"
+    }
+}
